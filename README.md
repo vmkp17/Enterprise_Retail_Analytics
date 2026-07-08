@@ -205,51 +205,9 @@ Enterprise_Retail_Analytics
 └── LICENSE
 ```
 
----
-
-# 🚀 How to Run the Project
 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Enterprise_Retail_Analytics.git
-```
-
-### Install Dependencies
-
-```bash
-pip install pandas numpy matplotlib plotly sqlite3
-```
-
-### Open
-
-- Google Colab Notebook
-- Power BI Dashboard
-- SQL Queries
-
----
-
-# 🎓 Skills Demonstrated
-
-- Data Cleaning
-- Exploratory Data Analysis
-- SQL Programming
-- Business Intelligence
-- Dashboard Design
-- KPI Development
-- Data Visualization
-- Business Storytelling
-
----
-
-# 📬 Contact
-
-**Author:** FIFA
-
-GitHub: https://github.com/your-username
-
-LinkedIn: Add Your LinkedIn Profile Here
-
----
-
-## ⭐ If you found this project useful, consider giving it a star!
+https://github.com/vmkp17/Enterprise_Retail_Analytics.git
+'''
